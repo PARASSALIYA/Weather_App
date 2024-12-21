@@ -16,14 +16,15 @@ A Flutter application that provides weather information for various cities. User
 
 OUTPUT:
 
+https://github.com/user-attachments/assets/2d895445-0703-49b4-b42a-067711ebffea
 
-https://github.com/user-attachments/assets/9267573d-951c-4dd5-9ca1-f9d94048a7bc
+<img src = "https://github.com/user-attachments/assets/85d541a3-fe16-4b96-bebd-9c4fd28f4200" width="200">
+<img src = "https://github.com/user-attachments/assets/ae1f8fd0-ad4b-4c31-9e78-a6319dce432e" width="200">
+<img src = "https://github.com/user-attachments/assets/c0745e7b-2085-42aa-a627-4427a7968c1d" width="200">
+<img src = "https://github.com/user-attachments/assets/c795c37a-2785-4471-b914-ade2f0278e8b" width="200">
+<img src = "https://github.com/user-attachments/assets/f802fd2a-9cda-4008-a0a8-26a21473c998" width="200">
+<img src = "https://github.com/user-attachments/assets/02c2f46b-baeb-4bd8-9d06-17e1766ac272" width="200">
+<img src = "https://github.com/user-attachments/assets/2aa12490-dcf9-4e85-bc38-a291862019e8" width="200">
+<img src = "https://github.com/user-attachments/assets/c0b5d508-512f-4daf-8b22-d43ae94a471d" width="200">
 
 
-<img src = "https://github.com/user-attachments/assets/8573bbc8-ebe8-4870-876d-9e0ac86e4cf1" width="200">
-<img src = "https://github.com/user-attachments/assets/166ab217-efe6-4e29-9ac6-7cddd672449d" width="200">
-<img src = "https://github.com/user-attachments/assets/8bb9c7a0-5913-4b8a-9a91-ed86a07a92a3" width="200">
-<img src = "https://github.com/user-attachments/assets/f37ead51-223a-4b1a-bbc7-0d819d3f30b0" width="200">
-<img src = "https://github.com/user-attachments/assets/6d7f9dc3-baad-4031-ab25-cf78ac1e22fb" width="200">
-<img src = "https://github.com/user-attachments/assets/0113787b-e56b-43cf-bd2b-0c0e1c7f53a0" width="200">
-<img src = "https://github.com/user-attachments/assets/13c5e095-c5e4-4d72-9043-0eb9f6a3e117" width="200">
